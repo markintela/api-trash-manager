@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3FOkXRkLjMo=",
+  "dgSpecHash": "5wOkSqdZvbE=",
   "success": true,
-  "projectFilePath": "/build/myapp/myapp.csproj",
+  "projectFilePath": "/home/user/api-trash-manager/myapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
