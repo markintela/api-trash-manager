@@ -1,0 +1,96 @@
+﻿# ============================
+# Visual Studio / .NET Ignore
+# ============================
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]estResults/
+[Bb]uild/
+[Bb]uild[Ll]og/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.cache
+*.obj
+*.dll
+*.exe
+*.pdb
+*.tmp
+*.bak
+*.cachefile
+*.log
+
+# Visual Studio local folder
+.vs/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish profiles
+*.pubxml
+*.publishproj
+
+# Package directories
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+.project.lock.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# TFS
+$tf/
+
+# Entity Framework Migrations
+Migrations/obj/
+EFCoreMigrationsHistory/
+
+# Others
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+*.opendb
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+
+# IIS Express
+.vsconfig
+*.vspscc
+.vspscc
+applicationhost.config
+iisexpress.log
+
+# Backup & temp
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+*.old
+
+# macOS / Linux
+.DS_Store
+Thumbs.db
+
+# Node / Front-end projects (Next.js

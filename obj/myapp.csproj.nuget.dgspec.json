@@ -1,30 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/api-trash-manager/myapp.csproj": {}
+    "D:\\Software Development\\projects\\api-trash-manager\\myapp.csproj": {}
   },
   "projects": {
-    "/home/user/api-trash-manager/myapp.csproj": {
+    "D:\\Software Development\\projects\\api-trash-manager\\myapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/api-trash-manager/myapp.csproj",
+        "projectUniqueName": "D:\\Software Development\\projects\\api-trash-manager\\myapp.csproj",
         "projectName": "myapp",
-        "projectPath": "/home/user/api-trash-manager/myapp.csproj",
-        "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/api-trash-manager/obj/",
+        "projectPath": "D:\\Software Development\\projects\\api-trash-manager\\myapp.csproj",
+        "packagesPath": "C:\\Users\\Marki\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Development\\projects\\api-trash-manager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Marki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +40,11 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/3hhkyi53ky9qwjj9vjzg0pyq333vlrla-dotnet-sdk-9.0.203/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
